@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys solving real
 
 ## How to Reach Me
 
-- Email: your.email@example.com  
 - GitHub Issues or Discussions on any of my projects  
 - Or just star a repo and drop a comment — I usually reply!
 
