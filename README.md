@@ -20,12 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys solving real
 - **Tools**: Git, VS Code, Trello, Figma
 - **Other Tech**: Raspberry Pi, Arduino, ESP32, Linux (Manjaro, Debian)
 
-## Currently Learning
-
-- Advanced MicroPython for embedded systems  
-- Building progressive web apps (PWAs)  
-- UI/UX best practices and accessibility  
-
 ## How to Reach Me
 
 - GitHub Issues or Discussions on any of my projects  
