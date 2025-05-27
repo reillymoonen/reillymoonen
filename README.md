@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys solving real
 - **PCPartPicker Spreadsheet Converter**  
   A tool that converts PCPartPicker part lists into downloadable spreadsheets, making it easier for builders to track their parts, budget, and plan ahead.
 
-- ⚙**Home Automation Projects**  
+- **Home Automation Projects**  
   Using Raspberry Pi, Arduino, and custom software to automate and monitor real-world systems.
 
 - **Custom Map & Navigation App**  
