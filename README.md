@@ -29,12 +29,6 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys solving real
 ## How to Reach Me
 
 - GitHub Issues or Discussions on any of my projects  
-- Or just star a repo and drop a comment — I usually reply!
-
-## Fun Fact
-
-I’m constantly experimenting with ways to merge software with physical projects, whether it’s controlling fans with a microcontroller or displaying real-time system stats on an e-ink display.
-
----
+- Or just star a repo and drop a comment
 
 Thanks for stopping by! Feel free to check out my projects, fork something interesting, or reach out to collaborate.
