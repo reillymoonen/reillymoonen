@@ -24,5 +24,3 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys solving real
 
 - GitHub Issues or Discussions on any of my projects  
 - Or just star a repo and drop a comment
-
-Thanks for stopping by! Feel free to check out my projects, fork something interesting, or reach out to collaborate.
