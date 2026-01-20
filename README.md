@@ -1,6 +1,6 @@
 # Hi there,
 
-Welcome to my GitHub profile! I'm a passionate developer who enjoys solving real-world problems with code. I build tools that are practical, user-friendly, and help improve people's workflows—especially in the areas of web development, automation, and hobby tech projects.
+Welcome to my GitHub profile! I'm a passionate developer who enjoys solving real-world problems with code. I build tools that are practical, user-friendly, and help improve people's workflows, especially in the areas of web development, automation, and hobby tech projects.
 
 ## What I'm Working On
 
